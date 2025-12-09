@@ -1,0 +1,7 @@
+{
+  "name": "SiteGuard AI",
+  "description": "An AI-powered construction assistant that analyzes site photos for safety compliance, hazard detection, and progress tracking using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
