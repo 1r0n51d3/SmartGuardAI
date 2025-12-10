@@ -2,7 +2,7 @@ import { GoogleGenAI, Schema, Type } from "@google/genai";
 import { AnalysisResult } from "../types";
 
 // Initialize the client with the provided API Key for the hackathon demo
-const apiKey = "AIzaSyB96IFOhCQQLu2YduFxRTUONWkIPaW0Pk4";
+const apiKey = "your_api_key";
 
 const ai = new GoogleGenAI({ apiKey });
 
